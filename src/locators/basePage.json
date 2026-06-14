@@ -1,0 +1,13 @@
+{
+    "basePage":{
+        "home": "//a[text()='Home']",
+        "practice":"//a[text()='Practice']",
+        "courses": "//a[text()='Courses']",
+        "contact": "//a[text()='Contact']"
+    },
+    "practicePage":{
+        "testLogin": "//a[text()='Test Login Page']",
+        "testExceptions": "//a[text()='Test Exceptions']",
+        "testTable": "//a[text()='Test Table']"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "loginPage":{
+         "userName":"//input[@id='username']",
+         "password":"//input[@id='password']",
+         "submitButton":"//button[@id='submit']",
+         "error" : "//div[@id='error']",
+         "loggedInPage": "//div[@class='post-header']",
+         "logOut":"//a[text()='Log out']"
+        }   
+}
+   
